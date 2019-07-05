@@ -1,0 +1,26 @@
+#top{
+  margin-left: 40px;
+  padding-top: 30px;
+  display: flex;
+
+}
+#top a{
+  margin-left: 70px;
+  text-decoration: none;
+  color: yellow;
+  font-weight: bolder;
+  font-family: 'Indie Flower', cursive;
+}
+body{
+  background-image: url("/home/emmanuel/Desktop/moringa-school-projects/personal-portfolio/pics/tech3.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: yellow;
+}
+.split-right img{
+  width: 300px;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+  color: orange;
+}
