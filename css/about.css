@@ -3,6 +3,7 @@
   padding-top: 30px;
   display: flex;
 
+
 }
 #top a{
   margin-left: 70px;
@@ -26,4 +27,14 @@ h1{
 }
 p{
   font-family: 'Kalam', cursive;
+}
+img{
+  width: 650px;
+  float: right;
+
+}
+#right{
+  position: absolute;
+  top: 100px;
+  right: 0;
 }
