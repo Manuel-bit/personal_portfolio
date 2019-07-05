@@ -1,7 +1,28 @@
 body{
-  background-color: black;
+  background-image: url("/home/emmanuel/Desktop/moringa-school-projects/personal-portfolio/pics/tech2.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+
 
 }
-top a{
+#top a{
   text-decoration-color: yellow;
+  text-decoration: none;
+  margin-left: 70px;
+  color: yellow;
+  font-weight: bolder;
+}
+#top{
+padding-left: 10px;
+padding-bottom: 0px;
+padding-top: 40px;
+display: flex;
+flex-wrap: wrap;
+}
+h1{
+  font-weight: bolder;
+  text-align: center;
+  color: yellow;
+  padding-top: 200px;
+
 }
