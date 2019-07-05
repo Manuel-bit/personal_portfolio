@@ -11,6 +11,7 @@ body{
   margin-left: 70px;
   color: yellow;
   font-weight: bolder;
+  font-family: 'Indie Flower', cursive;
 }
 #top{
 padding-left: 10px;
@@ -24,5 +25,10 @@ h1{
   text-align: center;
   color: yellow;
   padding-top: 200px;
-
+  font-family: 'Barriecito', cursive;
+}
+h4{
+  font-weight: lighter;
+  font-family: 'Dancing Script', cursive;
+  padding-top: -50px;
 }
