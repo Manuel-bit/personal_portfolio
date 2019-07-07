@@ -51,17 +51,19 @@ body{
 #linkdin{
   display:inline-block;
   float: left;
-  padding-top: 20%;
+  padding-top: 15%;
   padding-left: 10%;
+  flex-wrap: wrap;
 }
 #linkdin h2{
   color: yellow;
   font-family: 'Indie Flower', cursive;
+
 }
 #twiter{
   display: inline-block;
   float: left;
-  padding-top: 7%;
+  padding-top: 3%;
   padding-left: 18%
 }
 #twiter h2{
