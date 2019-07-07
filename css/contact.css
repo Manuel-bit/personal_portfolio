@@ -20,12 +20,15 @@ body{
 }
 #facebook h2{
   color: yellow;
+  font-family: 'Indie Flower', cursive;
 }
-#instagram h3{
+#instagram h2{
   color: yellow;
+  font-family: 'Indie Flower', cursive;
 }
-#github h3{
+#github h2{
   color: yellow;
+  font-family: 'Indie Flower', cursive;
 }
 #instagram {
   margin-left: : 100px;
@@ -44,4 +47,24 @@ body{
   display: inline-block;
   padding-left: 10%;
   padding-top: 5%;
+}
+#linkdin{
+  display:inline-block;
+  float: left;
+  padding-top: 20%;
+  padding-left: 10%;
+}
+#linkdin h2{
+  color: yellow;
+  font-family: 'Indie Flower', cursive;
+}
+#twiter{
+  display: inline-block;
+  float: left;
+  padding-top: 7%;
+  padding-left: 18%
+}
+#twiter h2{
+  color: yellow;
+  font-family: 'Indie Flower', cursive;
 }
