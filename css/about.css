@@ -13,7 +13,7 @@
   font-family: 'Indie Flower', cursive;
 }
 body{
-  background-image: url("/home/emmanuel/Desktop/moringa-school-projects/personal-portfolio/pics/manu.jpg");
+  background-image: url("../pics/manu.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: yellow;
@@ -28,7 +28,7 @@ h1{
 }
 p{
   font-family: 'Kalam', cursive;
-  
+
 }
 img{
   width: 650px;
